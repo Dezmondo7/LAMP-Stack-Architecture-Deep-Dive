@@ -6,7 +6,7 @@ This repository contains a comprehensive technical analysis of the LAMP stack (L
 **Assessment Grade: 95%**
 
 ### 📄 Document Access
-The full 23-page research paper is available in PDF format. 
+The full 23-page research paper is available in PDF format. It is attached above Cyber_Research.pdf.
 
 ### Key Areas Covered:
 * **Operating Systems:** Kernel architecture, bootloaders, and distro-specific security hardening.
