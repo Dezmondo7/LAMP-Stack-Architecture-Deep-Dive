@@ -1,7 +1,7 @@
 # LAMP Stack: Architecture, Security & Enterprise Scalability
 
 ## Executive Summary
-This repository contains a comprehensive technical analysis of the LAMP stack (Linux, Apache, MySQL, PHP). The research explores the underlying software components, evaluates the trade-offs between open-source and proprietary infrastructure (e.g., Linux vs. Windows, MySQL vs. Oracle), and analyzes the security implications of web-scale deployments.
+This repository contains a comprehensive technical analysis of the LAMP stack (Linux, Apache, MySQL, PHP). The research explores the underlying software components, evaluates the trade-offs between open-source and proprietary infrastructure (e.g., Linux vs. Windows, MySQL vs. Oracle), and analyzes the security implications of web-scale deployments using a Raspberry pi.
 
 **Assessment Grade: 95%**
 
