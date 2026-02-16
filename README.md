@@ -5,7 +5,7 @@
 ## Executive Summary
 This repository contains a deep-dive technical planning document centered on the ARM-based hardware architecture (Raspberry Pi 4B) powering a LAMP stack. The research focuses on quantitative performance modeling, calculating exact CPU cycle allocation for dynamic web requests, and conducting a hardware-level vulnerability assessment of the SoC and memory components.
 
-Assessment Grade: 95%
+## Assessment Grade: 95%
 
 📄 Document Access
 The full 21-page project planning paper is available in PDF format. It is attached above Cyber_Planning_Research.pdf.
@@ -25,11 +25,14 @@ This repository contains a comprehensive technical analysis of the LAMP stack (L
 
 **Assessment Grade: 95%**
 
-### 📄 Document Access
+📄 Document Access
 The full 23-page research paper is available in PDF format. It is attached above Cyber_Research.pdf.
 
-### Key Areas Covered:
-* **Operating Systems:** Kernel architecture, bootloaders, and distro-specific security hardening.
-* **Web Services:** Apache modular design vs. Microsoft IIS performance.
-* **Database Management:** Relational data models and high-availability disaster recovery.
-* **Scripting & Logic:** Server-side execution and secure API integration.
+Key Areas Covered:
+Operating Systems: Kernel architecture, bootloaders, and distro-specific security hardening.
+
+Web Services: Apache modular design vs. Microsoft IIS performance.
+
+Database Management: Relational data models and high-availability disaster recovery.
+
+Scripting & Logic: Server-side execution and secure API integration.
