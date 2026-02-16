@@ -23,7 +23,7 @@ Compliance & Strategy: A comprehensive SMART roadmap for achieving PCI-DSS compl
 ## Executive Summary
 This repository contains a comprehensive technical analysis of the LAMP stack (Linux, Apache, MySQL, PHP). The research explores the underlying software components, evaluates the trade-offs between open-source and proprietary infrastructure (e.g., Linux vs. Windows, MySQL vs. Oracle), and analyzes the security implications of web-scale deployments.
 
-### Assessment Grade: 95%**
+### Assessment Grade: 95%
 
 📄 Document Access
 The full 23-page research paper is available in PDF format. It is attached above Cyber_Research.pdf.
